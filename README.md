@@ -4,5 +4,4 @@
 
 1. news_collect(x,y)  
 x = the serial number of a post you wanna start with  
-
 y = the serial number of a post you wanna end with 
